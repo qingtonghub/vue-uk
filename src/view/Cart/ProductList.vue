@@ -9,6 +9,7 @@
                 </button>
             </li>
         </ul>
+        <Loading></Loading>
     </div>
 </template>
 
